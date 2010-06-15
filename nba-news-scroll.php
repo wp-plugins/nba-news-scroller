@@ -3,7 +3,7 @@
 Plugin Name: NBA News Scroller
 Description: Provides the Latest NBAS Headlines, updated every 3-4 hours
 Author: A93D
-Version: 0.8
+Version: 0.8.1
 Author URI: http://www.thoseamazingparks.com/getstats.php
 */
 

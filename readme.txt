@@ -4,7 +4,7 @@ Donate link: http://www.ibet.ws/nba_team_stats_page.php
 Tags: nba, sports, stats, widgets, plugins, plugin, sidebar, widget, teams, nba stats, football, football stats, football team stats, nba standings, football standings
 Requires at least: 2.2.0
 Tested up to: 2.9.2
-Stable tag: 0.8
+Stable tag: 0.8.1
 
 NBA News Scroll shows the top 10 NBA headlines, updated every 3-4 hours during the regular season.
 
@@ -26,7 +26,7 @@ of the stats panel across their blog to display complete team figures. This plug
 
 This section describes how to install the plugin and get it working.
 
-1. Upload `nba-news-scroll` fodler to the `/wp-content/plugins/` directory
+1. Upload `nba-news-scroll` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. The Plugin will automatically install a new table on your database to store your team and display size selections.
 4. It might be necessary to upload a `crossdomain.xml` file to your website's root folder (where the `wp-config.php` file is stored). This file allows the Flash news scroller to function much more efficiently, and restricts access to our server only. If you need this file, you will be alerted in the NBA News Scroller settings panel, and offered a download link to get the file.
