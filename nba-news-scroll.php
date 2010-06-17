@@ -49,7 +49,7 @@ function nbas_stats_install()
 // Copies crossdomain.xml file, if necessary, to proper folder
 if (!file_exists("/crossdomain.xml"))
 	{ 
-	echo "We've copied the crossdomain.xml file...\n\n";
+	#echo "We've copied the crossdomain.xml file...\n\n";
 	copy( dirname(__FILE__)."/crossdomain.xml", "../../../crossdomain.xml" );
 	} 
 // Here we pick 3 Random Ad Links in addition to first ad which is always id 0
