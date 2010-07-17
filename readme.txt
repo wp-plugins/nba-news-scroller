@@ -3,7 +3,7 @@ Contributors: bpmee31
 Donate link: http://www.ibet.ws/nba_team_stats_page.php
 Tags: nba, sports, stats, widgets, plugins, plugin, sidebar, widget, teams, nba stats, football, football stats, football team stats, nba standings, football standings
 Requires at least: 2.2.0
-Tested up to: 2.9.2
+Tested up to: 3.0
 Stable tag: 0.8.1
 
 NBA News Scroll shows the top 10 NBA headlines, updated every 3-4 hours during the regular season.
