@@ -73,6 +73,7 @@ website? Sure. Can I post on an adult website? Sure - Keep it legal. Can I post 
 == Screenshots ==
 
 1. Sample Screen Shot of Scroller `/tags/0.8.1/screenshot-1.png`
+*NOTE: Colors are fully customizable, this is just an example!
 
 == Changelog ==
 
