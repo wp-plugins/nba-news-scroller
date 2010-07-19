@@ -72,8 +72,7 @@ website? Sure. Can I post on an adult website? Sure - Keep it legal. Can I post 
 
 == Screenshots ==
 
-1. We're working on getting screenshots. For now, visit http://www.thoseamazingparks.com/getstats.php to see an example. Note, do not submit your name and request 
-the NBA Stats through the form on this page, since you already have the software. This request form is for users who do not use WP, or would like a simplified version of the NBA stats plugin.
+1. Sample Screen Shot of Scroller `/tags/0.8.1/screenshot-1.png`
 
 == Changelog ==
 
